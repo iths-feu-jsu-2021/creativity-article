@@ -1,6 +1,6 @@
 # Creativity Article
 
-Implementera (artikeln)[Article.pdf] så likt du bara kan.
+Implementera [artikeln](Article.pdf) så likt du bara kan.
 
 ## Fonter
 
